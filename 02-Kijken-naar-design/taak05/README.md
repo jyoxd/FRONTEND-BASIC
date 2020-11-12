@@ -8,7 +8,7 @@
 
 1. Download het programma MS Paint 3D.
 2. Teken rechthoeken om alle blokken die jij kunt vinden in volgende ![Word toolbar](images/toolbar.png)
-3. Hoeveel blokken heb je kunnen vinden?
+3. Hoeveel blokken heb je kunnen vinden?5
 
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
